@@ -1,62 +1,34 @@
-# \# Assignment 15.2 – Asset Store
+# Assignment 15.2 – Unity Asset Store Integration
 
-# 
+This Unity project was created to explore and integrate assets from the Unity Asset Store into a star-themed prototype. The following three assets were used:
 
-# This is a Unity project created for Assignment 15.2.  
+### 1. [Real Stars Skybox Lite](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333)
+A realistic starry skybox used to create an immersive space background.
 
-# The purpose is to explore and test the use of assets from the Unity Asset Store.
+### 2. [Vision of Stars (Music Pack)](https://assetstore.unity.com/packages/audio/music/vision-of-stars-293364)
+A soft, ambient music track that enhances the atmosphere and emotional tone of the scene.
 
-# 
+### 3. [Cinemachine](https://unity.com/unity/features/editor/art-and-design/cinemachine)
+A built-in Unity package that enables smooth, controllable camera movement through virtual cameras and blending.
 
-# \## How to Run
+---
 
-# 1\. Open with Unity 2022.3 or later.
+### How to Open the Project
 
-# 2\. All assets are placed in the `Assets/` folder.
+- Download `Assignment15.2_UnityBuild_ClareWong.zip` from this repository.
+- Unity Version: **Unity 6000.0.51f1**
+- In Unity Hub:
+  1. Click **Add Project** → select the unzipped folder.
+  2. Open the scene located at: `Assets/Scenes/MainScene.unity`
 
-# 
+> Note: All required assets are already included in the `Assets` folder.
 
-# \## Notes
+---
 
-# 
+### GitHub Link Submission
 
-# \*\*Assets used:\*\*
+[https://github.com/clarewyc/Assignment-15.2--Asset-Store](https://github.com/clarewyc/Assignment-15.2--Asset-Store)
 
-# \- \[Real Stars Skybox Lite](https://assetstore.unity.com/packages/3d/environments/sci-fi/real-stars-skybox-lite-116333)  
+---
 
-# \- \[Vision of Stars (Audio)](https://assetstore.unity.com/packages/audio/music/vision-of-stars-293364)  
-
-# \- \[Cinemachine (Unity Package)](https://unity.com/unity/features/editor/art-and-design/cinemachine)
-
-
-
-
-
-# Repository
-
-# GitHub: https://github.com/clarewyc/Assignment-15.4--GUI-Elements
-
-
-
-
-
-# This project does not include custom scripts.
-
-
-
-
-
-
-
-
-
-# 
-
-# \## Author  
-
-# Clare Wong  
-
-# June 2025
-
-# 
-
+Created by **Clare Wong**, June 2025

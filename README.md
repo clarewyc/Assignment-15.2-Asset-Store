@@ -27,7 +27,7 @@ A built-in Unity package that enables smooth, controllable camera movement throu
 
 ### GitHub Link Submission
 
-[https://github.com/clarewyc/Assignment-15.4--GUI-Elements](https://github.com/clarewyc/Assignment-15.4--GUI-Elements)
+[https://github.com/clarewyc/Assignment-15.2-Asset-Store](https://github.com/clarewyc/Assignment-15.2-Asset-Store)
 
 ---
 

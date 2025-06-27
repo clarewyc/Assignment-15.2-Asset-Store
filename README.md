@@ -34,7 +34,7 @@
 
 # Repository
 
-# GitHub: https://github.com/clarewyc/Assignment-15.4--GUI-Elemen
+# GitHub: https://github.com/clarewyc/Assignment-15.4--GUI-Elements
 
 
 
